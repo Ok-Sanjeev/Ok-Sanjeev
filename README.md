@@ -1,204 +1,281 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Sanjeev%20Kumar%20Rai&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Profile header"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7DD3FC&center=true&vCenter=true&width=850&lines=Data+Analyst;Data+Engineer;AI%2FML+Engineer;Software+Engineer;Python+%7C+SQL+%7C+C%2B%2B;Turning+Data+Into+Meaningful+Insights;Open+to+Entry-Level+Opportunities" alt="Typing animation"/>
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=230&section=header&text=Sanjeev%20Kumar%20Rai&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Graduate%20%7C%20Data%20%7C%20AI%2FML%20%7C%20Software&descAlignY=60&descSize=17&animation=fadeIn" alt="Sanjeev Kumar Rai"/>
 
 <br/>
 
-![Open To Work](https://img.shields.io/badge/Open%20To%20Work-Data%20%7C%20AI%2FML%20%7C%20Software-7dd3fc?style=for-the-badge)
+<a href="https://github.com/Ok-Sanjeev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Data+Analyst;Data+Engineer;AI%2FML+Engineer;Software+Engineer;Python+%7C+SQL+%7C+C%2B%2B;Building+Projects.+Learning.+Growing." alt="Typing SVG"/>
+</a>
 
-![](https://komarev.com/ghpvc/?username=Ok-Sanjeev&label=Profile%20Views&color=7dd3fc&style=flat)
-![](https://img.shields.io/github/followers/Ok-Sanjeev?label=Followers&style=flat&color=7dd3fc)
+<br/><br/>
+
+<a href="https://github.com/Ok-Sanjeev">
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Entry--Level%20Opportunities-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work"/>
+</a>
+<a href="https://github.com/Ok-Sanjeev?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-My%20Projects-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+</a>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/sanjeevrai5">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:sanjeevrai987654@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/Ok-Sanjeev?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ok-Sanjeev&style=for-the-badge&color=0284C7&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Ok-Sanjeev?style=for-the-badge&color=0284C7&label=FOLLOWERS" alt="GitHub Followers"/>
 
 </div>
 
 ---
 
-# 👋 Hi, I'm Sanjeev Kumar Rai
+## 👨‍💻 About Me
 
-🎓 **B.E. Computer Science & Engineering Graduate (2026)**
+Hi! I'm **Sanjeev Kumar Rai**, a **2026 B.E. Computer Science & Engineering graduate from Chandigarh University**.
 
-💻 I enjoy solving practical problems through programming, data analysis, and software development.
+I'm passionate about using technology to solve practical problems, whether that means transforming raw data into meaningful insights, building data-driven applications, or exploring AI-powered solutions.
 
-📊 I'm interested in **Data Analytics, Data Engineering, AI/ML, and Software Engineering**.
+I enjoy learning by building projects, experimenting with new technologies, and strengthening my understanding of computer science fundamentals.
 
-🌱 I keep building hands-on projects to strengthen my technical skills and explore new technologies.
+I'm currently exploring opportunities across **Data Analytics, Data Engineering, AI/ML, and Software Development**, where I can contribute, learn from experienced professionals, and grow as an engineer.
 
-🎯 **Open to entry-level opportunities:** Data Analyst · Data Engineer · AI/ML Engineer · Software Engineer
+### 🎯 Career Interests
+
+| Role | Areas of Interest |
+|---|---|
+| 📊 Data Analyst | Data Cleaning, SQL Analysis, EDA, KPIs, Dashboards, Business Insights |
+| ⚙️ Data Engineer | Data Processing, ETL Concepts, Data Quality, Python, SQL |
+| 🤖 AI/ML Engineer | Machine Learning, AI Applications, Data Preparation, Model Fundamentals |
+| 💻 Software Engineer | Python, C++, Problem Solving, DSA, Software Development |
+
+<div align="center">
+
+**🎓 Graduate:** B.E. Computer Science & Engineering · 2026  
+**💼 Availability:** Immediate Joiner  
+**🌍 Location:** India · Open to Relocation
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🛠️ Technical Skills
 
-I'm a Computer Science graduate from **Chandigarh University**, interested in working at the intersection of data and technology. I enjoy exploring datasets, writing SQL queries, creating dashboards, and developing Python-based applications.
+<div align="center">
 
-My project work includes retail and customer analytics, as well as an AI-assisted data-cleaning pipeline that combines data profiling, validated cleaning plans, and predefined operations. I'm continuing to develop my skills in analytics, databases, software development, and machine learning.
+### 💻 Programming Languages
 
-- **Education:** B.E. Computer Science & Engineering, 2026
-- **Target roles:** Data Analyst, Data Engineer, AI/ML Engineer, Software Engineer
-- **Availability:** Immediate joiner
-- **Location:** India
-- **Relocation:** Open to relocation
+<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" alt="Python and C++"/>
 
----
+<br/>
 
-# 🛠️ Technical Skills
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
 
-## 💻 Programming Languages
+<br/><br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp" alt="Python and C++"/>
-</p>
+### 📊 Data Analytics & Visualization
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
-</p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
 
-## 📊 Data Analytics & Visualization
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-</p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 
-**Analytics skills:** Data Cleaning · Exploratory Data Analysis (EDA) · Data Wrangling · Statistical Analysis · Customer Segmentation · KPI Analysis · Data Visualization
+<br/><br/>
 
-## 🗄️ Databases & SQL
+### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL and PostgreSQL"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="MySQL and PostgreSQL"/>
 
-**SQL concepts:** Joins · CTEs · Window Functions · Subqueries · Views · Indexing
+<br/><br/>
 
-## 🧠 Core Computer Science
+### 🧰 Development Tools
 
-`Data Structures & Algorithms` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks` · `SDLC`
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,jupyter&theme=dark" alt="Git, GitHub, VS Code, Docker and Jupyter"/>
 
-## 🧰 Development & Productivity Tools
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Git, GitHub, VS Code, Docker"/>
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
-</p>
+### 📌 Additional Technical Knowledge
+
+**Data Analytics:**  
+Data Cleaning · Exploratory Data Analysis (EDA) · Data Wrangling · Statistical Analysis · Customer Segmentation · KPI Analysis · Data Visualization
+
+**SQL:**  
+Joins · Common Table Expressions (CTEs) · Window Functions · Subqueries · Views · Indexing
+
+**Core Computer Science:**  
+Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems · Computer Networks · SDLC
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 AI Data Cleaner
-
-**Python · Pandas · Gemini API · Pydantic**
-
-An AI-assisted data-cleaning pipeline that profiles messy CSV datasets, generates a structured cleaning plan, validates the plan, and executes approved operations through a trusted deterministic action registry.
-
-### Key Features
-
-- Profiles CSV datasets and identifies data-quality issues.
-- Detects missing values, duplicates, inconsistent categories, and data-type problems.
-- Uses Gemini to propose cleaning operations rather than generate executable code.
-- Validates AI-generated plans with Pydantic.
-- Executes only predefined, trusted cleaning operations.
-- Performs post-cleaning checks and generates run reports.
-
-**Status:** 🚧 In progress
-
-🔗 [View Repository](https://github.com/Ok-Sanjeev/ai-data-cleaner)
-
----
-
-## 📊 Customer Shopping Trends Analysis
-
-**Python · Pandas · SQL · Power BI**
-
-A retail analytics project exploring customer purchasing patterns, segmentation, KPIs, and dashboard insights.
-
-### Key Highlights
-
-- Cleaned and analyzed **3,900+ customer records**.
-- Used SQL joins, CTEs, and window functions for analysis.
-- Performed customer segmentation and KPI analysis.
-- Built interactive Power BI dashboards.
-- Communicated findings through visualizations and business-focused insights.
-
-🔗 [View Repository](https://github.com/Ok-Sanjeev/Customer-Shopping-Trends-Analysis)
-
----
-
-## 📈 Retail Sales Analytics Dashboard
-
-**Python · Pandas · Matplotlib · MySQL**
-
-A retail sales project focused on data preparation, SQL analysis, visualization, and business performance.
-
-### Key Highlights
-
-- Cleaned and analyzed **10,000+ rows**.
-- Used MySQL for analytical queries.
-- Processed data with Pandas and created Matplotlib visualizations.
-- Explored sales patterns and performance metrics.
-
----
-
-# 📈 GitHub Statistics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ok-Sanjeev&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics"/>
+### Projects where I apply my skills to practical problems
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ok-Sanjeev&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
+</div>
 
-<br/><br/>
+## 🤖 1. AI Data Cleaner
 
-<img src="https://streak-stats.demolab.com?user=Ok-Sanjeev&theme=github-dark&hide_border=true" alt="GitHub streak"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square" alt="Pydantic"/>
+</p>
+
+An AI-assisted data-cleaning pipeline designed to profile messy CSV datasets, generate structured cleaning plans, validate those plans, and execute approved operations through a trusted action registry.
+
+### ✨ Key Features
+
+- 📂 Loads and profiles CSV datasets.
+- 🔍 Identifies data-quality issues such as missing values, duplicates, inconsistent categories, and data-type problems.
+- 🧠 Uses Gemini to propose structured cleaning plans.
+- 🛡️ Validates AI-generated plans using Pydantic.
+- ⚙️ Executes predefined cleaning operations instead of arbitrary AI-generated code.
+- ✅ Performs post-cleaning validation and generates run reports.
+
+**Project Status:** 🚧 In Progress
+
+<div align="left">
+
+<a href="https://github.com/Ok-Sanjeev/ai-data-cleaner">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View AI Data Cleaner"/>
+</a>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 📊 2. Customer Shopping Trends Analysis
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ok-Sanjeev&theme=algolia&no-frame=true&margin-w=10" alt="GitHub trophies"/>
+A retail analytics project focused on understanding customer purchasing behavior, analyzing KPIs, and presenting findings through interactive dashboards.
+
+### ✨ Key Highlights
+
+- 🧹 Cleaned and analyzed **3,900+ customer records**.
+- 🗄️ Used SQL joins, CTEs, and window functions for analysis.
+- 👥 Performed customer segmentation.
+- 📈 Analyzed KPIs and customer purchasing patterns.
+- 📊 Built interactive Power BI dashboards.
+- 💡 Presented business-focused insights through visualizations.
+
+<div align="left">
+
+<a href="https://github.com/Ok-Sanjeev/Customer-Shopping-Trends-Analysis">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Customer Shopping Trends Analysis"/>
+</a>
 
 </div>
 
 ---
 
-# 📊 Contribution Graph
+## 📈 3. Retail Sales Analytics Dashboard
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ok-Sanjeev&theme=github-dark" alt="Contribution graph"/>
+A retail sales analytics project involving data preparation, SQL-based analysis, and visualization to explore business performance.
 
-</div>
+### ✨ Key Highlights
+
+- 🧹 Cleaned and analyzed **10,000+ rows of data**.
+- 🗄️ Used MySQL queries to analyze sales data.
+- 🐍 Processed and transformed data using Pandas.
+- 📊 Created visualizations using Matplotlib.
+- 🔎 Explored sales patterns and performance metrics.
 
 ---
 
 # 🎓 Education
 
-**B.E. Computer Science & Engineering**  
-Chandigarh University · **2026**
+<div align="center">
+
+### Chandigarh University
+
+**Bachelor of Engineering — Computer Science & Engineering**
+
+🎓 Graduated in **2026**
+
+</div>
 
 ---
 
-# 📜 Certifications & Achievements
+# 🏅 Certifications & Achievements
 
-- 🎓 Google Data Analytics Professional Certificate
-- 🎓 Deloitte Data Analytics Job Simulation (Forage)
-- 🎓 NPTEL Cloud Computing (IIT Kharagpur)
-- 🏅 GATE 2026 Qualified — Computer Science & Engineering
+<div align="center">
+
+<img src="https://img.shields.io/badge/GATE%202026-Qualified-2563EB?style=for-the-badge" alt="GATE 2026 Qualified"/>
+<img src="https://img.shields.io/badge/Google-Data%20Analytics%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analytics"/>
+<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Job%20Simulation-86BC25?style=for-the-badge" alt="Deloitte Data Analytics Job Simulation"/>
+
+</div>
+
+- 🎓 **Google Data Analytics Professional Certificate**
+- 🎓 **Deloitte Data Analytics Job Simulation** — Forage
+- 🎓 **NPTEL Cloud Computing** — IIT Kharagpur
+- 🏅 **GATE 2026 Qualified** — Computer Science & Engineering
 
 ---
 
 # 📚 Currently Learning
 
-`Advanced SQL` · `Statistics` · `Power BI` · `Machine Learning`
+<div align="center">
+
+<img src="https://img.shields.io/badge/Advanced%20SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="Advanced SQL"/>
+<img src="https://img.shields.io/badge/Statistics-0F766E?style=for-the-badge" alt="Statistics"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge" alt="Machine Learning"/>
+
+</div>
+
+I'm continuing to develop my knowledge through hands-on practice, project development, and learning new concepts.
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<a href="https://github.com/Ok-Sanjeev?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
+<a href="https://github.com/Ok-Sanjeev">
+  <img src="https://img.shields.io/badge/Visit%20My%20Profile-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub profile"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Ok-Sanjeev?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore%20My%20Work-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Projects"/>
+</a>
+
+</div>
 
 ---
 
@@ -206,13 +283,25 @@ Chandigarh University · **2026**
 
 <div align="center">
 
+I'm always happy to connect with professionals, developers, recruiters, and fellow learners.
+
+<br/>
+
 <a href="https://linkedin.com/in/sanjeevrai5">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:sanjeevrai987654@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+
+<a href="https://github.com/Ok-Sanjeev">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+**📍 India · Open to Relocation · Immediate Joiner**
 
 </div>
 
@@ -220,8 +309,12 @@ Chandigarh University · **2026**
 
 <div align="center">
 
-⭐ If you like my work, consider starring my repositories!
+### 💡 Learn continuously. Build consistently. Improve every day.
+
+⭐ If you find my projects interesting, consider starring a repository!
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0369A1,100:0F172A&height=130&section=footer" width="100%" alt="Footer"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%" alt="Footer"/>
