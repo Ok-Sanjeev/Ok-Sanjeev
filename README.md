@@ -19,80 +19,71 @@
 
 🎓 **B.E. Computer Science & Engineering Graduate (2026)**
 
-💻 Interested in solving practical problems using programming, data, and emerging technologies.
+💻 I enjoy solving practical problems through programming, data analysis, and software development.
 
-📊 Passionate about **Data Analytics, Data Engineering, AI/ML, and Software Development**.
+📊 I'm interested in **Data Analytics, Data Engineering, AI/ML, and Software Engineering**.
 
-🛠️ Skilled in Python, SQL, C++, Power BI, Excel, and data-handling tools.
+🌱 I keep building hands-on projects to strengthen my technical skills and explore new technologies.
 
-🌱 Currently building projects, strengthening my technical foundations, and expanding my portfolio.
-
-🎯 **Open to entry-level opportunities** as a **Data Analyst, Data Engineer, AI/ML Engineer, or Software Engineer**.
+🎯 **Open to entry-level opportunities:** Data Analyst · Data Engineer · AI/ML Engineer · Software Engineer
 
 ---
 
 ## 🧑‍💻 About Me
 
-```python
-class Sanjeev:
-    role = "Computer Science Graduate"
-    education = "B.E. Computer Science & Engineering (2026)"
+I'm a Computer Science graduate from **Chandigarh University**, interested in working at the intersection of data and technology. I enjoy exploring datasets, writing SQL queries, creating dashboards, and developing Python-based applications.
 
-    interested_roles = [
-        "Data Analyst",
-        "Data Engineer",
-        "AI/ML Engineer",
-        "Software Engineer"
-    ]
+My project work includes retail and customer analytics, as well as an AI-assisted data-cleaning pipeline that combines data profiling, validated cleaning plans, and predefined operations. I'm continuing to develop my skills in analytics, databases, software development, and machine learning.
 
-    languages = ["Python", "SQL", "C++"]
-    analytics = ["Pandas", "NumPy", "Matplotlib", "Power BI", "Excel"]
-    databases = ["MySQL", "PostgreSQL"]
-
-    sql_concepts = [
-        "Joins", "CTEs", "Window Functions",
-        "Subqueries", "Views", "Indexing"
-    ]
-
-    core_concepts = ["DSA", "OOP", "DBMS", "Operating Systems", "Computer Networks", "SDLC"]
-
-    achievements = [
-        "GATE 2026 Qualified",
-        "Google Data Analytics Professional Certificate",
-        "Deloitte Data Analytics Job Simulation"
-    ]
-
-    currently_learning = ["Advanced SQL", "Power BI", "Statistics", "Machine Learning"]
-    availability = "Immediate Joiner"
-    open_to_relocation = True
-```
+- **Education:** B.E. Computer Science & Engineering, 2026
+- **Target roles:** Data Analyst, Data Engineer, AI/ML Engineer, Software Engineer
+- **Availability:** Immediate joiner
+- **Location:** India
+- **Relocation:** Open to relocation
 
 ---
 
 # 🛠️ Technical Skills
 
-## Languages
+## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,postgres" alt="Python, C++, MySQL, PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp" alt="Python and C++"/>
 </p>
 
-## Data & BI Tools
-
 <p>
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
 </p>
 
-## Dev Tools
+## 📊 Data Analytics & Visualization
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+</p>
+
+**Analytics skills:** Data Cleaning · Exploratory Data Analysis (EDA) · Data Wrangling · Statistical Analysis · Customer Segmentation · KPI Analysis · Data Visualization
+
+## 🗄️ Databases & SQL
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL and PostgreSQL"/>
+</p>
+
+**SQL concepts:** Joins · CTEs · Window Functions · Subqueries · Views · Indexing
+
+## 🧠 Core Computer Science
+
+`Data Structures & Algorithms` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks` · `SDLC`
+
+## 🧰 Development & Productivity Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Git, GitHub, VS Code, Docker"/>
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
 </p>
 
 ---
