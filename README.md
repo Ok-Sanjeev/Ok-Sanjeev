@@ -158,37 +158,6 @@ A sales analytics project designed to explore retail performance and communicate
 
 ---
 
-### 4. 📰 InsightInk News Portal
-
-**React · Tailwind CSS · News API**
-
-A frontend-focused news portal project designed to provide a user-friendly interface for browsing news content.
-
-**Key Highlights**
-
-- Developed the frontend using React.
-- Used Tailwind CSS for styling and responsive layouts.
-- Integrated a News API to retrieve news content.
-- Focused on presenting news in a clear and accessible interface.
-
-**Skills Demonstrated:** React, Frontend Development, API Integration, Responsive UI
-
----
-
-### 5. 🔐 Blockchain Voting System
-
-**Blockchain · Cryptography**
-
-An academic research project exploring the use of blockchain technology and cryptographic concepts in electronic voting systems.
-
-**Focus Areas**
-
-- Blockchain-based voting concepts.
-- Cryptographic principles.
-- Transparency and integrity considerations in electronic voting.
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
