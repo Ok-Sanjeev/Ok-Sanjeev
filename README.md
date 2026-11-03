@@ -3,7 +3,7 @@
 <!-- HEADER -->
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=230&section=header&text=Sanjeev%20Kumar%20Rai&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Graduate%20%7C%20AI%20%26%20Data%20Engineering%20%7C%20Software%20Developer&descAlignY=60&descSize=16&animation=fadeIn"
+  src="./assets/header.svg"
   alt="Sanjeev Kumar Rai"
 />
 
@@ -93,7 +93,7 @@ I focus on writing maintainable code, building structured APIs, implementing str
 <img src="https://skillicons.dev/icons?i=pandas,numpy&theme=dark" alt="Data Processing"/>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 
 <br/><br/>
@@ -296,6 +296,6 @@ I'm always open to connecting with professionals, discussing software engineerin
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0369A1,100:0F172A&height=120&section=footer" alt="Footer"/>
+<img width="100%" src="./assets/footer.svg" alt="Footer"/>
 
 </div>
