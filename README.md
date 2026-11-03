@@ -9,7 +9,7 @@
 
 ### Computer Science & Engineering Graduate | AI & Data Engineering | Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=AI+%26+Data+Engineering;Creator+of+DataRefine+(AI+Data+Cleaner);Python+%7C+C%2B%2B+%7C+FastAPI+%7C+SQL;LLM+Integration+%7C+Data+Analytics;Building+Reliable+AI-Powered+Applications;Computer+Science+Graduate" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=AI+%26+Data+Engineering;Python+%7C+C%2B%2B+%7C+FastAPI+%7C+SQL;LLM+Integration+%7C+Data+Analytics;Building+Reliable+AI-Powered+Applications;Computer+Science+Graduate" alt="Typing SVG"/>
 
 <br/>
 
@@ -253,9 +253,6 @@ Graduation: **2026**
   <img src="https://streak-stats.demolab.com/?user=Ok-Sanjeev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ok-Sanjeev&theme=tokyonight" alt="Repositories per Language" />
-</p>
 
 <br/>
 
