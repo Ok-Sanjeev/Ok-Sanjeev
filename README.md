@@ -1,6 +1,6 @@
-
 <div align="center">
 
+<!-- HEADER -->
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=230&section=header&text=Sanjeev%20Kumar%20Rai&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Graduate%20%7C%20AI%20%26%20Data%20Engineering%20%7C%20Software%20Developer&descAlignY=60&descSize=16&animation=fadeIn"
@@ -9,7 +9,7 @@
 
 ### Computer Science & Engineering Graduate | AI & Data Engineering | Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=AI+%26+Data+Engineering;Python+%7C+C%2B%2B+%7C+FastAPI+%7C+SQL;LLM+Integration+%7C+Data+Analytics;Building+Reliable+AI-Powered+Applications;Computer+Science+Graduate" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=AI+%26+Data+Engineering;Creator+of+DataRefine+(AI+Data+Cleaner);Python+%7C+C%2B%2B+%7C+FastAPI+%7C+SQL;LLM+Integration+%7C+Data+Analytics;Building+Reliable+AI-Powered+Applications;Computer+Science+Graduate" alt="Typing SVG"/>
 
 <br/>
 
@@ -40,19 +40,16 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Sanjeev Kumar Rai**, a Computer Science & Engineering graduate from **Chandigarh University (2026)** and a **GATE 2026 Qualified** candidate.
+Hi! I'm **Sanjeev Kumar Rai**, a Computer Science & Engineering graduate from **Chandigarh University (Class of 2026)** and a **GATE 2026 Qualified** candidate.
 
-I enjoy building practical software solutions that combine backend engineering, artificial intelligence, data processing, and analytics.
+I enjoy building practical software solutions that combine backend engineering, artificial intelligence, data processing, and analytics. My primary interests include developing AI-powered applications, designing reliable data pipelines, integrating LLMs into real-world workflows, and transforming raw data into meaningful insights.
 
-My primary interests include developing AI-powered applications, designing reliable data pipelines, integrating LLMs into real-world workflows, and transforming raw data into meaningful insights.
-
-I focus on writing maintainable code, building structured APIs, implementing data validation, and developing applications with an emphasis on reliability and usability.
+I focus on writing maintainable code, building structured APIs, implementing strict data validation, and developing systems with an emphasis on determinism, reliability, and security.
 
 **Currently looking for entry-level opportunities in:**
-
-- **AI / ML Engineering:** LLM Integration, Generative AI, Machine Learning, Python.
-- **Data Engineering & Analytics:** Python, SQL, ETL, Data Processing, Power BI.
-- **Backend Development:** FastAPI, REST APIs, API Integration, Software Development.
+- 🤖 **AI / ML Engineering:** LLM Integration, Generative AI, Machine Learning, Python.
+- ⚙️ **Data Engineering & Analytics:** Python, SQL, ETL, Data Quality, Power BI.
+- 💻 **Backend Development:** FastAPI, REST APIs, System Architecture, Test-Driven Development.
 
 **Current Availability:** Immediate Joiner | Open to Relocation | Open to Remote Opportunities
 
@@ -60,14 +57,14 @@ I focus on writing maintainable code, building structured APIs, implementing dat
 
 ## 🎯 Core Competencies
 
-| Domain | Areas of Expertise | Technologies |
+| Domain | Areas of Expertise | Technologies & Tools |
 |---|---|---|
-| AI & Generative AI | LLM Integration, Prompt Engineering, Structured AI Outputs | Gemini API, Pydantic |
-| Backend Development | REST APIs, API Integration, Error Handling, Testing | Python, FastAPI |
-| Data Engineering | Data Cleaning, Data Profiling, ETL, Data Validation | Pandas, NumPy |
-| Data Analytics | EDA, KPI Analysis, Business Intelligence, Reporting | SQL, Power BI, Excel |
-| Machine Learning | Classification, Regression, Model Evaluation | Scikit-Learn |
-| Programming | Problem Solving, Data Structures & Algorithms | Python, C++, SQL |
+| 🤖 **AI & Generative AI** | Privacy-Preserving AI Planning, Prompt Engineering, Structured AI Outputs | Gemini API, Pydantic v2, LLM Orchestration |
+| ⚙️ **Backend Development** | REST APIs, Clean Architecture, Error Handling, Session Management, Automated Testing | Python, FastAPI, Uvicorn, Pytest |
+| 🧹 **Data Engineering** | Data Cleaning, Data Profiling, ETL Pipelines, Data Validation, Schema Enforcement | Pandas, NumPy, Data Pipeline Architecture |
+| 📊 **Data Analytics & BI** | Exploratory Data Analysis (EDA), KPI Tracking, Business Intelligence, Cohort Reporting | SQL, Power BI, Excel, Matplotlib |
+| 🧠 **Machine Learning** | Classification, Regression, Model Evaluation, Hyperparameter Tuning | Scikit-Learn, Streamlit |
+| 💻 **Programming & CS** | Problem Solving, Object-Oriented Programming, Data Structures & Algorithms | Python, C++, C, SQL |
 
 ---
 
@@ -86,7 +83,7 @@ I focus on writing maintainable code, building structured APIs, implementing dat
 <img src="https://skillicons.dev/icons?i=fastapi,sklearn&theme=dark" alt="Backend and ML"/>
 
 <img src="https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
+<img src="https://img.shields.io/badge/Pydantic_v2-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 
 <br/><br/>
@@ -101,7 +98,7 @@ I focus on writing maintainable code, building structured APIs, implementing dat
 
 <br/><br/>
 
-### Databases & Developer Tools
+### Databases & Developer Infrastructure
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,vscode,postman&theme=dark" alt="Developer Tools"/>
 
@@ -111,52 +108,50 @@ I focus on writing maintainable code, building structured APIs, implementing dat
 
 ### Additional Technical Knowledge
 
-- **Databases:** MySQL, PostgreSQL, SQL Joins, CTEs, Window Functions, Subqueries.
-- **Backend:** FastAPI, REST API Development, JSON, Session Management.
-- **AI Engineering:** LLM Orchestration, Prompt Engineering, Pydantic Validation, Deterministic Execution.
+- **Databases:** MySQL, PostgreSQL, SQL Joins, CTEs, Window Functions, Subqueries, Indexing.
+- **Backend:** FastAPI, REST API Development, JSON, Pydantic Schema Validation, Session Management.
+- **AI Engineering:** LLM Orchestration, Prompt Engineering, Pydantic Validation, Deterministic Action Registries.
 - **Data Analysis:** Data Cleaning, Feature Engineering, Exploratory Data Analysis, Data Visualization.
-- **Software Development:** Object-Oriented Programming, Data Structures, Algorithms, Git.
+- **Software Development:** Object-Oriented Programming, Data Structures, Algorithms, Git Version Control.
 
 ---
 
 # 🚀 Featured Projects
 
-## 1. 🤖 DataRefine — AI Data Cleaner & Engineering Studio
+## 1. 🤖 [DataRefine — AI Data Cleaner & Engineering Studio](https://github.com/Ok-Sanjeev/ai-data-cleaner)
 
 <a href="https://github.com/Ok-Sanjeev/ai-data-cleaner">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View DataRefine"/>
 </a>
-<a href="https://github.com/Ok-Sanjeev/ai-data-cleaner">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-</a>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square" alt="Pydantic"/>
+<img src="https://img.shields.io/badge/Pydantic_v2-E92063?style=flat-square" alt="Pydantic"/>
 <img src="https://img.shields.io/badge/Pytest-145_Tests_Passing-22C55E?style=flat-square&logo=pytest&logoColor=white" alt="Tests"/>
 
-An AI-assisted data profiling, cleaning, and engineering platform designed to transform inconsistent datasets into structured, analysis-ready data.
+An AI-assisted data profiling, cleaning, and engineering platform designed to transform messy, inconsistent datasets into structured, production-ready data.
 
-The application combines LLM-assisted cleaning recommendations with a deterministic execution engine, providing users with control over proposed data transformations.
+The application combines LLM-assisted cleaning recommendations with a strictly deterministic, sandboxed execution engine, ensuring users maintain total control and transparency over all data transformations.
 
 ### Key Engineering Highlights
 
-- **Privacy-Conscious AI Architecture:** Raw CSV records and row-level data are not transmitted to Gemini. The AI planning workflow uses dataset metadata, anonymized column information, statistical summaries, and quality information.
-- **52 Deterministic Cleaning Actions:** A predefined action registry provides controlled and validated data transformations.
-- **Three-Tier Risk Classification:**
-  - 🟢 **Safe Repair:** Whitespace normalization, Unicode normalization, currency cleaning, date and numeric conversions.
-  - 🟡 **Needs Review:** Statistical imputation, outlier clipping, pattern extraction, missing-value replacement.
-  - 🔴 **Potentially Destructive:** Column removal, row removal, and deduplication.
-- **AI Cleaning Planner:** Integrates Google Gemini API with structured AI responses and Pydantic validation.
-- **Interactive Studio (`/app`):** Dataset profiling, cleaning plan customization, operation management, and side-by-side data comparison.
-- **Quality Profiling:** Evaluates missing values, outliers, invalid values, type inconsistencies, and formatting issues.
-- **Testing:** 145 automated unit and integration tests covering validation, cleaning operations, fallback behavior, and API endpoints.
+- 🛡️ **Privacy-Conscious AI Architecture:** Raw CSV records and row-level data are never transmitted to Gemini. The AI planning workflow operates strictly on dataset metadata, anonymized column schemas, statistical distributions, and anomaly summaries.
+- ⚙️ **52 Predefined Deterministic Actions:** A hardened action registry provides controlled, predictable, and validated transformations without executing arbitrary AI-generated code.
+- 🚦 **Three-Tier Safety Classification:**
+  - 🟢 **Safe Repair (Checked by default):** Whitespace trimming, Unicode normalization, currency cleaning, date/numeric conversions, HTML tag stripping.
+  - 🟡 **Needs Review (Unchecked by default):** Statistical imputation (mean/median/mode, group-wise), outlier clipping, pattern extraction, missing-value replacement.
+  - 🔴 **Potentially Destructive (Requires confirmation):** Column drops, threshold-based row drops, deduplication.
+- 🧠 **AI Cleaning Planner:** Integrates Google Gemini API with structured JSON responses, Pydantic schema validation, and bounded retry loops.
+- 🎛️ **Interactive Studio (`/app`):** Dynamic dataset profiling across 5 independent quality categories (*Missing Values, Statistical Outliers, Invalid Values, Data Type Inconsistencies, Formatting Issues*), plan customization (`+ Add Operation`), and a side-by-side color-coded visual diff viewer.
+- 🚀 **Zero-Action Clean Dataset Workflow:** Supports datasets that already meet quality standards by allowing direct verification, audit trail generation, and CSV export without forced modifications.
+- 🧪 **Production Rigor:** Backed by **145 automated unit and integration tests** verifying validation, cleaning operations, fallback behavior, and REST API endpoints.
 
-**Technology Stack:** Python, FastAPI, Pandas, Google Gemini API, Pydantic, Pytest, HTML, CSS, JavaScript.
+**Technology Stack:** Python, FastAPI, Pandas, Google Gemini API, Pydantic v2, Pytest, HTML5, CSS3, JavaScript.
 
 ---
 
-## 2. 🚢 Titanic Passenger Survival Predictor
+## 2. 🚢 [Titanic Passenger Survival Predictor](https://github.com/Ok-Sanjeev/titanic-survival-predictor)
 
 <a href="https://github.com/Ok-Sanjeev/titanic-survival-predictor">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Titanic Project"/>
@@ -166,22 +161,19 @@ The application combines LLM-assisted cleaning recommendations with a determinis
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
 
-An end-to-end machine learning application that predicts passenger survival using historical Titanic passenger data.
+An end-to-end Machine Learning pipeline and interactive web application that predicts passenger survival using socio-economic features from historical Titanic passenger data.
 
 ### Key Highlights
 
-- Developed an end-to-end classification workflow.
-- Performed data preprocessing and feature preparation.
-- Implemented Decision Tree classification using Scikit-Learn.
-- Evaluated model performance using classification metrics and a confusion matrix.
-- Applied hyperparameter tuning to control model complexity and reduce overfitting.
-- Developed an interactive Streamlit application for real-time predictions.
+- 🔬 **Structured 8-Step ML Workflow:** Problem definition, data cleaning, train/test splitting, naive baseline benchmarking, Decision Tree classification, confusion matrix evaluation, and hyperparameter depth tuning to control model complexity and prevent overfitting.
+- 🌐 **Interactive Streamlit Web App:** Real-time prediction interface with intuitive inputs for passenger class, sex, age, and fare paid.
+- 📈 **Interpretability & Metrics:** Detailed model performance breakdown with precision, recall, and decision boundary insights.
 
 **Technology Stack:** Python, Pandas, Scikit-Learn, Streamlit, Matplotlib.
 
 ---
 
-## 3. 📊 Customer Shopping Trends Analysis
+## 3. 📊 [Customer Shopping Trends Analysis](https://github.com/Ok-Sanjeev/Customer-Shopping-Trends-Analysis)
 
 <a href="https://github.com/Ok-Sanjeev/Customer-Shopping-Trends-Analysis">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Shopping Trends"/>
@@ -195,34 +187,33 @@ A retail analytics project focused on understanding customer purchasing patterns
 
 ### Key Highlights
 
-- Cleaned, transformed, and analyzed **3,900+ retail customer records**.
-- Performed exploratory data analysis to identify purchasing patterns.
-- Used SQL joins, CTEs, aggregations, and window functions.
-- Applied `RANK()` and `DENSE_RANK()` for analytical queries.
-- Developed interactive Power BI dashboards.
-- Analyzed customer demographics, purchasing behaviour, and revenue segmentation.
+- 🧹 Cleaned, transformed, and analyzed **3,900+ retail customer records**.
+- 🗄️ Executed multi-table SQL queries utilizing joins, CTEs, aggregations, and window functions (`RANK`, `DENSE_RANK`).
+- 👥 Performed demographic and purchasing segmentation to evaluate high-value customer cohorts.
+- 📊 Developed interactive Power BI dashboards delivering KPI tracking and revenue visualization.
 
 **Technology Stack:** Python, SQL, Pandas, Power BI.
 
 ---
 
-## 4. 📈 Retail Sales Analytics & SQL Reporting
+## 4. 📈 [Retail Sales Analytics & SQL Reporting](https://github.com/Ok-Sanjeev/sales-data-analysis)
 
+<a href="https://github.com/Ok-Sanjeev/sales-data-analysis">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Sales Data Analysis"/>
+</a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
 
-A data analytics project focused on examining retail transaction data, identifying sales patterns, and generating business insights.
+A data analytics project focused on examining retail transaction data, identifying seasonal sales patterns, and generating business insights.
 
 ### Key Highlights
 
-- Processed and analyzed **10,000+ transaction records**.
-- Performed data cleaning and exploratory data analysis.
-- Used MySQL for relational queries, filtering, and aggregations.
-- Analyzed seasonal trends and product category revenue.
-- Created visualizations to communicate analytical findings.
-- Derived business recommendations from transaction-level insights.
+- 🧹 Processed, cleaned, and analyzed **10,000+ transaction records**.
+- 🗄️ Designed MySQL relational queries with advanced filtering, indexing, and cohort grouping.
+- 📈 Analyzed seasonal trends, top-selling product categories, and regional sales distribution.
+- 📊 Formulated actionable business recommendations supported by visual exploratory data analysis.
 
 **Technology Stack:** Python, MySQL, Pandas, Matplotlib.
 
@@ -232,10 +223,8 @@ A data analytics project focused on examining retail transaction data, identifyi
 
 ## Education
 
-**Chandigarh University**
-
-Bachelor of Engineering (B.E.) — Computer Science & Engineering
-
+**Chandigarh University**  
+Bachelor of Engineering (B.E.) — Computer Science & Engineering  
 Graduation: **2026**
 
 <div align="center">
@@ -250,30 +239,37 @@ Graduation: **2026**
 |---|---|---|
 | Oracle AI Cloud Database Services 2025 Certified Professional | Oracle | October 2025 |
 | Oracle Cloud Infrastructure 2025 AI Foundations Associate | Oracle | October 2025 |
+| Google Data Analytics Professional Certificate | Google | 2024 |
 | Data Analytics Job Simulation | Deloitte Australia – Forage | October 2025 |
 | Cloud Computing – 12-Week Course (83/100, Top 5%) | NPTEL – IIT Kharagpur | April 2024 |
 
 ---
 
-# 📈 GitHub Activity & Statistics
+# 📈 GitHub Activity & Engineering Statistics
 
 <div align="center">
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ok-Sanjeev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ok-Sanjeev&theme=tokyonight" alt="Repositories per Language" />
+</p>
+
+<br/>
 
 <a href="https://github.com/Ok-Sanjeev?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE-ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories"/>
 </a>
-
 <a href="https://github.com/Ok-Sanjeev">
 <img src="https://img.shields.io/badge/GITHUB-VISIT_PROFILE-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
-
-<a href="https://github.com/Ok-Sanjeev?tab=overview&from=2026-01-01&to=2026-12-31">
+<a href="https://github.com/Ok-Sanjeev?tab=overview">
 <img src="https://img.shields.io/badge/CONTRIBUTIONS-VIEW_ACTIVITY-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Activity"/>
 </a>
 
 <br/><br/>
-
-**Explore my repositories to see my latest projects, code, and development work.**
 
 </div>
 
@@ -283,7 +279,7 @@ Graduation: **2026**
 
 <div align="center">
 
-I'm always open to connecting with professionals, discussing software engineering and AI, exploring career opportunities, and collaborating on interesting projects.
+I'm always open to connecting with professionals, discussing software engineering, data engineering, and AI systems, and exploring full-time opportunities.
 
 <br/>
 
@@ -303,7 +299,6 @@ I'm always open to connecting with professionals, discussing software engineerin
 
 <br/>
 
-*Thanks for visiting my profile!*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0369A1,100:0F172A&height=120&section=footer" alt="Footer"/>
 
 </div>
-
