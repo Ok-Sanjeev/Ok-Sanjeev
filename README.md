@@ -1,34 +1,36 @@
+
 <div align="center">
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=230&section=header&text=Sanjeev%20Kumar%20Rai&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Graduate%20%7C%20AI%20%26%20Data%20Engineering%20%7C%20Software%20Developer&descAlignY=60&descSize=16&animation=fadeIn" alt="Sanjeev Kumar Rai"/>
+<!-- ================= HEADER ================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=230&section=header&text=Sanjeev%20Kumar%20Rai&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Graduate%20%7C%20AI%20%26%20Data%20Engineering%20%7C%20Backend%20Development&descAlignY=60&descSize=15&animation=fadeIn" alt="Sanjeev Kumar Rai"/>
 
 <br/>
 
-<a href="https://github.com/Ok-Sanjeev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=900&height=45&lines=AI+%26+Data+Engineer;Creator+of+DataRefine+(AI+Data+Cleaner);Python+%7C+FastAPI+%7C+Pandas+%7C+SQL;Machine+Learning+%7C+Streamlit+%7C+Power+BI;Building+Reliable%2C+Production-Ready+Data+Systems." alt="Typing SVG"/>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Building+AI-Powered+Data+Applications;Creator+of+DataRefine+(AI+Data+Cleaner);Python+%7C+FastAPI+%7C+Pandas+%7C+SQL;LLM+Integration+%7C+Data+Engineering;Turning+Complex+Data+Into+Reliable+Systems" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Ok-Sanjeev">
-  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Entry--Level%20%7C%20Full--Time-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work"/>
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Full--Time%20Opportunities-22C55E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://github.com/Ok-Sanjeev?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-My%20Repositories-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+<img src="https://img.shields.io/badge/EXPLORE-PROJECTS-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/sanjeevrai5">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:sanjeevrai987654@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ok-Sanjeev&style=for-the-badge&color=0284C7&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Ok-Sanjeev?style=for-the-badge&color=0284C7&label=FOLLOWERS" alt="GitHub Followers"/>
-<img src="https://img.shields.io/badge/GATE%202026-Qualified-2563EB?style=for-the-badge" alt="GATE 2026 Qualified"/>
+<img src="https://komarev.com/ghpvc/?username=Ok-Sanjeev&style=for-the-badge&color=0284C7&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Ok-Sanjeev?style=for-the-badge&color=0284C7&label=FOLLOWERS"/>
+<img src="https://img.shields.io/badge/GATE%202026-QUALIFIED-2563EB?style=for-the-badge"/>
 
 </div>
 
@@ -36,68 +38,76 @@
 
 ## 👨‍💻 About Me
 
-Hi there! 👋 I'm **Sanjeev Kumar Rai**, a **Computer Science & Engineering graduate (Class of 2026) from Chandigarh University** and a **GATE 2026 Qualified** engineer.
+Hi! I'm **Sanjeev Kumar Rai**, a Computer Science & Engineering graduate (Class of 2026) from **Chandigarh University**, and a **GATE 2026 Qualified** candidate.
 
-I specialize in building **reliable, privacy-conscious data engineering pipelines, AI-driven developer tools, and analytics systems**. My focus is bridging the gap between raw, messy data and production-ready applications — leveraging deterministic validation, human-in-the-loop workflows, and modern machine learning.
+I'm interested in building intelligent software systems that combine **Artificial Intelligence, Data Engineering, Backend Development, and Analytics**.
 
-I am an **immediate joiner** actively seeking opportunities across:
-- **Data Engineering & Analytics** (Python, Pandas, SQL, ETL, Data Quality, BI Dashboards)
-- **AI / ML Engineering** (LLM Orchestration, Pydantic Guardrails, Scikit-Learn, Feature Engineering)
-- **Software Development / Backend** (Python, FastAPI, REST APIs, Test-Driven Development, C++)
+My primary focus is Python-based application development, AI integration, data processing, and building reliable backend systems.
+
+I enjoy working on problems involving messy datasets, automation, data quality, and intelligent application workflows.
+
+### 🎯 Career Interests
+
+- **AI & Data Engineering:** LLM Integration, Data Pipelines, ETL, Data Quality, Data Processing.
+- **Backend Development:** Python, FastAPI, REST APIs, API Integration, Application Architecture.
+- **Data Analytics:** SQL, Pandas, Exploratory Data Analysis, Power BI, Business Intelligence.
+- **Machine Learning:** Scikit-Learn, Feature Engineering, Classification, Model Evaluation.
+
+### ⚡ Quick Facts
+
+| | |
+|---|---|
+| 🎓 Education | B.E. Computer Science & Engineering |
+| 🏛️ University | Chandigarh University |
+| 🏅 Achievement | GATE 2026 Qualified – CSE |
+| 💻 Primary Language | Python |
+| ⚙️ Also Working With | C++, SQL |
+| 💼 Availability | Immediate Joiner |
+| 🌍 Location | India |
+| ✈️ Relocation | Open to Relocation |
 
 ---
 
-### 🎯 Core Competencies
-
-| Domain | Focus Areas | Key Technologies |
-|---|---|---|
-| 🤖 **AI & Data Engineering** | Privacy-Preserving AI, Deterministic Action Registries, Quality Profiling, Imputation | Python, Gemini API, Pydantic, Pandas, Pytest |
-| 📊 **Data Analytics & BI** | Exploratory Data Analysis (EDA), KPI Tracking, Customer Segmentation, Data Modeling | SQL, Power BI, Pandas, NumPy, Matplotlib |
-| ⚙️ **Backend & Full-Stack** | RESTful APIs, Clean Architecture, Human-in-the-Loop UIs, Session Management | FastAPI, Uvicorn, HTML5/CSS3, JavaScript |
-| 🧠 **Machine Learning** | End-to-End Classification & Regression, Model Evaluation, Hyperparameter Tuning | Scikit-Learn, Decision Trees, Streamlit |
-
-<div align="center">
-
-**🎓 Degree:** B.E. Computer Science & Engineering (2026) · Chandigarh University  
-**💼 Status:** Immediate Joiner · Open to Relocation & Remote  
-**📍 Location:** India
-
-</div>
-
----
-
-## 🛠️ Technical Stack
+## 🛠️ Technical Skills
 
 <div align="center">
 
 ### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" alt="Python, C++"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c&theme=dark" />
+
+<br/><br/>
 
 ### 🤖 AI, Machine Learning & Backend
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API"/>
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-</p>
 
-### 📊 Data Processing & Business Intelligence
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
-### 🗄️ Databases & Developer Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,docker,vscode,postman&theme=dark" alt="Databases and Tools"/>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
-</p>
+<br/><br/>
+
+### 📊 Data Processing & Analytics
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<br/><br/>
+
+### 🗄️ Databases & Development Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,vscode,postman&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </div>
 
@@ -105,171 +115,190 @@ I am an **immediate joiner** actively seeking opportunities across:
 
 # 🚀 Featured Projects
 
-### 🌟 1. [DataRefine — AI Data Cleaner & Engineering Studio](https://github.com/Ok-Sanjeev/ai-data-cleaner)
+## 🌟 1. DataRefine – AI Data Cleaner & Engineering Studio
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Pydantic%20v2-E92063?style=flat-square" alt="Pydantic"/>
-  <img src="https://img.shields.io/badge/Pytest-145%20Tests%20Passing-22C55E?style=flat-square&logo=pytest&logoColor=white" alt="145 Tests Passing"/>
-</p>
+<a href="https://github.com/Ok-Sanjeev/ai-data-cleaner">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-An intelligent, privacy-first data profiling, cleaning, and engineering platform that pairs LLM-assisted recommendations with a **strictly deterministic, sandboxed execution engine**.
+<a href="https://github.com/Ok-Sanjeev/ai-data-cleaner">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+</a>
 
-#### 🔑 Key Engineering Highlights:
-- 🛡️ **Zero Raw Data Leakage Architecture:** Never transmits user CSV records or row data to the LLM. Only anonymized column names, statistical distributions, data types, and quality summaries are shared with Gemini.
-- ⚙️ **52 Predefined Deterministic Actions:** Comprehensive action registry with a 3-tier risk classification:
-  - 🟢 **Safe Repair:** Whitespace trimming, repeated space collapse, unicode normalization, currency cleaning, date/numeric conversions, HTML tag stripping.
-  - 🟡 **Needs Review:** Statistical imputation (median/mean/mode, group-wise), pattern extraction, outlier clipping, missing value replacement.
-  - 🔴 **Potentially Destructive:** Column drops, threshold-based row drops, deduplication.
-- 🎛️ **Interactive Studio Workspace (`/app`):** Dynamic dataset profiling across 5 independent quality dimensions (Missing Values, Outliers, Invalids, Type Inconsistencies, Formatting), interactive plan customization (`+ Add Operation`), and a full side-by-side color-coded visual diff viewer.
-- 🧪 **Rigorous Test Suite:** Backed by **145 automated unit and integration tests** verifying Pydantic schema validation, LLM fallback rules, action idempotency, and REST API endpoints.
+**An AI-assisted data profiling, cleaning, and engineering platform designed to transform inconsistent raw datasets into structured, analysis-ready data.**
 
-<div align="left">
-  <a href="https://github.com/Ok-Sanjeev/ai-data-cleaner">
-    <img src="https://img.shields.io/badge/EXPLORE%20DATAREFINE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View DataRefine Repo"/>
-  </a>
-</div>
+DataRefine combines LLM-assisted cleaning recommendations with a deterministic execution engine, ensuring that AI proposes actions while trusted application code controls their execution.
 
----
+### 🔑 Key Engineering Highlights
 
-### 🚢 2. [Titanic Passenger Survival Predictor](https://github.com/Ok-Sanjeev/titanic-survival-predictor)
+**🛡️ Privacy-Conscious AI Architecture**
+- Avoids transmitting raw CSV rows or individual records to the LLM.
+- Shares metadata, column information, statistical summaries, and data-quality insights for AI-assisted planning.
+- Separates data processing from AI recommendation workflows.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-</p>
+**🤖 AI-Powered Cleaning Planner**
+- Integrates Google Gemini API for intelligent cleaning recommendations.
+- Uses structured AI responses validated through Pydantic.
+- Includes validation and fallback mechanisms for unreliable AI outputs.
 
-An end-to-end Machine Learning pipeline and interactive web application predicting Titanic passenger survival from socio-economic features.
+**⚙️ Deterministic Action Execution**
+- Uses a trusted action registry containing predefined data-cleaning operations.
+- Separates AI-generated recommendations from actual data execution.
+- Supports risk-aware operations with different levels of user oversight.
 
-#### 🔑 Key Highlights:
-- 🔬 **Rigorous 8-Step ML Workflow:** Problem framing, data cleaning, train/test splitting, baseline establishment, Decision Tree classification, confusion matrix evaluation, and hyperparameter depth tuning to prevent overfitting.
-- 🌐 **Interactive Streamlit Web App:** Real-time prediction interface with intuitive inputs for passenger class, sex, age, and fare paid.
-- 📈 **Interpretability & Metrics:** Detailed model performance breakdown with precision, recall, and decision boundary visualization.
+**🚦 Risk-Based Cleaning System**
 
-<div align="left">
-  <a href="https://github.com/Ok-Sanjeev/titanic-survival-predictor">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Titanic Predictor"/>
-  </a>
-</div>
+| Risk Level | Examples |
+|---|---|
+| 🟢 Safe Repair | Whitespace trimming, normalization, formatting |
+| 🟡 Needs Review | Imputation, outlier handling, replacements |
+| 🔴 Potentially Destructive | Column deletion, row deletion, deduplication |
 
----
+Destructive operations are presented for user review rather than being silently discarded or automatically rejected.
 
-### 📊 3. [Customer Shopping Trends Analysis](https://github.com/Ok-Sanjeev/Customer-Shopping-Trends-Analysis)
+**🎛️ Interactive Engineering Studio**
+- Dataset profiling across multiple data-quality dimensions.
+- Missing-value, outlier, invalid-value, and formatting detection.
+- Interactive cleaning-plan customization.
+- Add-operation functionality.
+- Side-by-side before-and-after data comparison.
+- Color-coded change visualization.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-</p>
+**🧪 Testing & Reliability**
+- Automated unit and integration testing.
+- Pydantic schema validation.
+- API endpoint testing.
+- Action execution and validation testing.
+- LLM fallback and error-handling tests.
 
-A retail analytics case study investigating consumer purchasing behavior, transaction metrics, and revenue drivers across customer segments.
-
-#### 🔑 Key Highlights:
-- 🧹 Cleaned, transformed, and profiled **3,900+ retail customer records**.
-- 🗄️ Executed multi-table SQL queries utilizing CTEs, window functions (`RANK`, `DENSE_RANK`), and aggregations.
-- 📊 Built interactive Power BI dashboards delivering KPI tracking and demographic revenue segmentation.
-
-<div align="left">
-  <a href="https://github.com/Ok-Sanjeev/Customer-Shopping-Trends-Analysis">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Shopping Trends"/>
-  </a>
-</div>
+**Tech Stack:** Python · FastAPI · Pandas · Google Gemini API · Pydantic · Pytest · HTML · CSS · JavaScript
 
 ---
 
-### 📈 4. Retail Sales Analytics & SQL Reporting
+## 🚢 2. Titanic Passenger Survival Predictor
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
-</p>
+<a href="https://github.com/Ok-Sanjeev/titanic-survival-predictor">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-- 🧹 Wrangled and analyzed **10,000+ transaction rows** to identify seasonal trends and category revenue drivers.
-- 🗄️ Designed MySQL relational queries with advanced filtering, indexing, and cohort grouping.
-- 📊 Formulated actionable business recommendations supported by visual exploratory data analysis.
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+
+An end-to-end machine learning application that predicts passenger survival using historical Titanic passenger data.
+
+### 🔑 Key Highlights
+
+- Developed an end-to-end classification workflow.
+- Performed data preprocessing and feature preparation.
+- Implemented Decision Tree classification using Scikit-Learn.
+- Evaluated model performance using confusion matrix, precision, and recall.
+- Explored hyperparameter tuning to control model complexity and overfitting.
+- Developed an interactive Streamlit application for real-time predictions.
+
+**Tech Stack:** Python · Pandas · Scikit-Learn · Streamlit · Matplotlib
+
+---
+
+## 📊 3. Customer Shopping Trends Analysis
+
+<a href="https://github.com/Ok-Sanjeev/Customer-Shopping-Trends-Analysis">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+A retail analytics project focused on understanding customer purchasing patterns, transaction behaviour, and revenue performance across different customer segments.
+
+### 🔑 Key Highlights
+
+- Cleaned and transformed 3,900+ retail customer records.
+- Performed exploratory data analysis using Python and Pandas.
+- Used SQL joins, CTEs, subqueries, aggregations, and window functions.
+- Applied RANK and DENSE_RANK for analytical comparisons.
+- Developed interactive Power BI dashboards.
+- Analyzed customer demographics, purchasing behaviour, and revenue drivers.
+
+**Tech Stack:** Python · SQL · Pandas · Power BI · Data Visualization
 
 ---
 
 # 🎓 Education & Certifications
 
-<div align="center">
+## Education
 
-### Chandigarh University
-**Bachelor of Engineering — Computer Science & Engineering** · *Graduation 2026*
+**Chandigarh University**
 
-<br/>
+Bachelor of Engineering (B.E.) – Computer Science & Engineering
 
-<a href="https://img.shields.io/badge/GATE%202026-Qualified-2563EB?style=for-the-badge">
-  <img src="https://img.shields.io/badge/GATE%202026-Qualified%20(CSE)-2563EB?style=for-the-badge" alt="GATE 2026"/>
-</a>
-<a href="https://www.coursera.org/professional-certificates/google-data-analytics">
-  <img src="https://img.shields.io/badge/Google-Data%20Analytics%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analytics"/>
-</a>
-<a href="https://www.theforage.com/">
-  <img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Simulation-86BC25?style=for-the-badge" alt="Deloitte Simulation"/>
-</a>
-<a href="https://nptel.ac.in/">
-  <img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-FF6F00?style=for-the-badge" alt="NPTEL Cloud Computing"/>
-</a>
+<text>Graduation: 2026</text>
 
-</div>
+<badge color="success">GATE 2026 Qualified – Computer Science & Engineering</badge>
 
-- 🏅 **GATE 2026 Qualified** — Computer Science & Engineering
-- 📜 **Google Data Analytics Professional Certificate** — Data processing, analysis, R, and visualization
-- 📜 **Deloitte Data Analytics Job Simulation** — Practical data forensics and executive reporting (Forage)
-- 📜 **NPTEL Cloud Computing Certification** — IIT Kharagpur
+## Certifications
+
+- **Oracle AI Cloud Database Services 2025 Certified Professional** – Oracle (October 2025).
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** – Oracle (October 2025).
+- **Data Analytics Job Simulation** – Deloitte Australia, Forage (October 2025).
+- **Cloud Computing** – NPTEL, IIT Kharagpur (April 2024). 12-week course, 83/100, Top 5%.
 
 ---
 
-# 📈 GitHub Activity & Stats
+# 📈 GitHub Activity & Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ok-Sanjeev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sanjeev's GitHub Stats" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ok-Sanjeev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="175"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ok-Sanjeev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" alt="GitHub Statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ok-Sanjeev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most Used Languages"/>
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ok-Sanjeev&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="GitHub Contribution Graph"/>
 
 <br/><br/>
 
 <a href="https://github.com/Ok-Sanjeev?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories"/>
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 📫 Connect With Me
+# 📫 Let's Connect
+
+I'm always open to discussing opportunities, collaborating on interesting projects, and connecting with professionals working in AI, data engineering, analytics, and software development.
 
 <div align="center">
 
-I welcome conversations about software engineering, data engineering, AI systems, or new project collaborations!
-
-<br/>
-
 <a href="https://linkedin.com/in/sanjeevrai5">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:sanjeevrai987654@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/Ok-Sanjeev">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**📍 Based in India · Open to Relocation · Immediate Joiner**
+**📍 India | 💼 Immediate Joiner | 🌍 Open to Relocation**
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0369A1,100:0F172A&height=130&section=footer" width="100%" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0369A1,100:0F172A&height=130&section=footer" alt="Footer"/>
 
 </div>
