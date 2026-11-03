@@ -1,7 +1,11 @@
 
 <div align="center">
 
-# Sanjeev Kumar Rai
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=230&section=header&text=Sanjeev%20Kumar%20Rai&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Graduate%20%7C%20AI%20%26%20Data%20Engineering%20%7C%20Software%20Developer&descAlignY=60&descSize=16&animation=fadeIn"
+  alt="Sanjeev Kumar Rai"
+/>
 
 ### Computer Science & Engineering Graduate | AI & Data Engineering | Software Developer
 
