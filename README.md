@@ -3,7 +3,7 @@
 <!-- HEADER -->
 <img
   width="100%"
-  src="./assets/header.svg"
+  src="https://raw.githubusercontent.com/Ok-Sanjeev/Ok-Sanjeev/main/assets/header.svg"
   alt="Sanjeev Kumar Rai"
 />
 
@@ -118,7 +118,7 @@ I focus on writing maintainable code, building structured APIs, implementing str
 
 # 🚀 Featured Projects
 
-## 1. 🤖 [DataRefine — AI Data Cleaner & Engineering Studio](https://github.com/Ok-Sanjeev/ai-data-cleaner)
+## 1. 🤖 [DataRefine — AI Data Cleaner & OpenRefine Studio](https://github.com/Ok-Sanjeev/ai-data-cleaner)
 
 <a href="https://github.com/Ok-Sanjeev/ai-data-cleaner">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View DataRefine"/>
@@ -128,24 +128,29 @@ I focus on writing maintainable code, building structured APIs, implementing str
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
 <img src="https://img.shields.io/badge/Pydantic_v2-E92063?style=flat-square" alt="Pydantic"/>
-<img src="https://img.shields.io/badge/Pytest-145_Tests_Passing-22C55E?style=flat-square&logo=pytest&logoColor=white" alt="Tests"/>
+<img src="https://img.shields.io/badge/Pytest-170_Tests_Passing-22C55E?style=flat-square&logo=pytest&logoColor=white" alt="Tests"/>
 
-An AI-assisted data profiling, cleaning, and engineering platform designed to transform messy, inconsistent datasets into structured, production-ready data.
+An AI-assisted data profiling, cleaning, and engineering platform upgraded with core [OpenRefine](https://github.com/OpenRefine/OpenRefine) methodologies to transform messy, inconsistent datasets into structured, production-ready data.
 
 The application combines LLM-assisted cleaning recommendations with a strictly deterministic, sandboxed execution engine, ensuring users maintain total control and transparency over all data transformations.
 
 ### Key Engineering Highlights
 
-- 🛡️ **Privacy-Conscious AI Architecture:** Raw CSV records and row-level data are never transmitted to Gemini. The AI planning workflow operates strictly on dataset metadata, anonymized column schemas, statistical distributions, and anomaly summaries.
-- ⚙️ **52 Predefined Deterministic Actions:** A hardened action registry provides controlled, predictable, and validated transformations without executing arbitrary AI-generated code.
-- 🚦 **Three-Tier Safety Classification:**
-  - 🟢 **Safe Repair (Checked by default):** Whitespace trimming, Unicode normalization, currency cleaning, date/numeric conversions, HTML tag stripping.
-  - 🟡 **Needs Review (Unchecked by default):** Statistical imputation (mean/median/mode, group-wise), outlier clipping, pattern extraction, missing-value replacement.
-  - 🔴 **Potentially Destructive (Requires confirmation):** Column drops, threshold-based row drops, deduplication.
+- 🛡️ **Zero Raw Data Shared with External AI:** Raw CSV rows and cell values are never transmitted to Gemini. AI only receives allowlisted, sanitized metadata and statistical anomaly summaries verified by a centralized outbound payload privacy validator.
+- 🏛️ **OpenRefine Capabilities Integrated:**
+  - **Clustering Studio:** Key-collision (*Fingerprint*, *N-Gram Fingerprint*, phonetic *Soundex* & *Metaphone*) and distance-based clustering (*Levenshtein*, *Damerau-Levenshtein*) with automatic canonical suggestions.
+  - **AST-Sandboxed GREL Engine:** Safe, sandboxed General Refine Expression Language supporting string, regex, date, and math transformations without arbitrary `eval`/`exec` risk.
+  - **Interactive Multi-Column Facets:** Text frequency counts, numeric histograms, and date timelines with instant cross-filtering and pagination.
+  - **Entity Reconciliation:** Candidate matching and confidence scoring against built-in catalogs (*Countries*, *US States*, *Currencies*, *Tech Roles*) and custom reference lists.
+  - **Workflow Recipes & Checkpoints:** OpenRefine-compatible JSON recipe export, sequential replay, and point-in-time dataset rollback.
+- ⚙️ **52 Predefined Deterministic Operations:** Classified into a strict 3-tier safety hierarchy:
+  - 🟢 **Safe Repair (Checked by default):** Whitespace trimming, Unicode normalization, casing standardization, phone/date cleaning, currency formatting, HTML tag stripping.
+  - 🟡 **Needs Review (Unchecked by default):** Statistical imputation (mean/median/mode, cohort-group), outlier clipping, pattern extraction, sentinel value replacement, GREL expressions, cluster merging, entity reconciliation.
+  - 🔴 **Potentially Destructive (Requires confirmation):** Column drops, threshold-based row drops, deduplication, missingness threshold pruning.
 - 🧠 **AI Cleaning Planner:** Integrates Google Gemini API with structured JSON responses, Pydantic schema validation, and bounded retry loops.
-- 🎛️ **Interactive Studio (`/app`):** Dynamic dataset profiling across 5 independent quality categories (*Missing Values, Statistical Outliers, Invalid Values, Data Type Inconsistencies, Formatting Issues*), plan customization (`+ Add Operation`), and a side-by-side color-coded visual diff viewer.
+- 🎛️ **Interactive 6-Tab Studio (`/app`):** Dynamic profiling across 5 quality categories, plan customization (`+ Add Operation`), and a side-by-side color-coded visual diff viewer.
 - 🚀 **Zero-Action Clean Dataset Workflow:** Supports datasets that already meet quality standards by allowing direct verification, audit trail generation, and CSV export without forced modifications.
-- 🧪 **Production Rigor:** Backed by **145 automated unit and integration tests** verifying validation, cleaning operations, fallback behavior, and REST API endpoints.
+- 🧪 **Production Rigor:** Backed by **170 automated unit and integration tests (100% pass rate)** verifying clustering, GREL security, facet calculations, reconciliation, AI privacy gates, deterministic cleaning, and REST endpoints.
 
 **Technology Stack:** Python, FastAPI, Pandas, Google Gemini API, Pydantic v2, Pytest, HTML5, CSS3, JavaScript.
 
@@ -296,6 +301,6 @@ I'm always open to connecting with professionals, discussing software engineerin
 
 <br/>
 
-<img width="100%" src="./assets/footer.svg" alt="Footer"/>
+<img width="100%" src="https://raw.githubusercontent.com/Ok-Sanjeev/Ok-Sanjeev/main/assets/footer.svg" alt="Footer"/>
 
 </div>
