@@ -3,7 +3,7 @@
 <!-- HEADER -->
 <img
   width="100%"
-  src="https://raw.githubusercontent.com/Ok-Sanjeev/Ok-Sanjeev/main/assets/header.svg"
+  src="https://cdn.jsdelivr.net/gh/Ok-Sanjeev/Ok-Sanjeev@main/assets/header.svg"
   alt="Sanjeev Kumar Rai"
 />
 
@@ -301,6 +301,6 @@ I'm always open to connecting with professionals, discussing software engineerin
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Ok-Sanjeev/Ok-Sanjeev/main/assets/footer.svg" alt="Footer"/>
+<img width="100%" src="https://cdn.jsdelivr.net/gh/Ok-Sanjeev/Ok-Sanjeev@main/assets/footer.svg" alt="Footer"/>
 
 </div>
